@@ -1,0 +1,8 @@
+Open Source Manifesto
+Date: 31 March 2026
+
+My name is Aastik.
+I believe in open source because of tools like VLC.
+To me, freedom means freedom.
+I want to build useful software for students and share it with others.
+Open source helps people learn, collaborate, and grow together.
